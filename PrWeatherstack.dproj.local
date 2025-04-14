@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.088,E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\Restweatherstack01.pas=E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\RestAPI01.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,=E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\UnitTchart.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,E:\02_myProjects\06 DelphyPrg\pr02_class\Project1.dproj=E:\02_myProjects\00_qtPet\03_RestAPI\rest_api01\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.383,=E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\PrWeatherstack.dproj=E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\Restweatherstack01.dfm=E:\02_myProjects\00_qtPet\03_RestAPI\07_restWeatherstack01\RestAPI01.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.pas=E:\02_myProjects\00_qtPet\03_RestAPI\rest_api01\RestAPI01.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,E:\02_myProjects\06 DelphyPrg\pr02_class\Unit1.dfm=E:\02_myProjects\00_qtPet\03_RestAPI\rest_api01\RestAPI01.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
